@@ -49,6 +49,8 @@ public class AnagrammiController {
 	    	}
 	    	
 	    }
+	    
+	    // prova vommit
 
 	    @FXML
 	    void doReset(ActionEvent event) {
