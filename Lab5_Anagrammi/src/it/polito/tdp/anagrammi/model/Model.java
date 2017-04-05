@@ -33,7 +33,7 @@ public class Model {
 		
 		return result ;
 	}
-
+// prova commit
 	private void recursive(List<Lettera> parziale, int step, Set<Anagramma> result) {
 		
 		if(parziale.size() == lettere.size()){
